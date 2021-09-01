@@ -1,0 +1,36 @@
+.main{
+    flex-direction: row;
+    margin-left: 15%;
+    margin-top: 4%;
+}
+
+.heading{
+    position: fixed;
+}
+
+.btn{
+    margin-left: 70% !important;
+}
+.btn1{
+    margin-left: 30% !important;
+    height: 40px;
+    margin-top: 3% !important;
+}
+
+.btnplus{
+    height: 0 !important;
+    padding: 0!important;
+    width: 0!important;
+    margin-left: 22px !important;
+}
+.btnmin{
+    padding: 0!important;
+    width: 0!important;
+        height: 0 !important;
+
+}
+.cell1{
+    /*margin-left: 10% !important;*/
+    position: absolute;
+    /*border: 1px solid;*/
+}
